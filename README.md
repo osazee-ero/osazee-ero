@@ -5,7 +5,7 @@
 <br />
 <div id="badges" align="center">
   <a href = "https://www.linkedin.com/in/osazeeero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="osazee.pythonanywhere.com" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=OsazeeWebsite&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="http://osazee.pythonanywhere.com" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=OsazeeWebsite&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=osazee-ero&style=flat-square&color=blue" alt=""/></div>
