@@ -12,7 +12,7 @@
 
 <br>
 
-<div algin="center">👋 Hi, I’m Osazee Ero, and I’m all about bringing machine learning to life. With a deep passion for computer vision and software development, I spend my days creating and fixing things—whether it’s developing new algorithms, building desktop or web applications, or crafting innovative machine learning solutions.
+<div algin="center">👋 Hi, I’m Osazee Ero — an LLM/GenAI Engineer focused on building production-ready applications with Retrieval-Augmented Generation (RAG) and fine-tuned open-source models (LoRA/QLoRA). I work across the full stack: data ingestion and embeddings, vector search, prompt/tool orchestration, evaluation for quality/grounding, and deployment with FastAPI, Docker, and AWS. I’m especially interested in reliable LLM systems for technical domains.
 </div>
 <br />
 <div align="center">
