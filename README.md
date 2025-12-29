@@ -70,6 +70,4 @@ I also build **GenAI tools (RAG/LLMs)** to unlock technical knowledge and stream
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osazee-ero&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osazee-ero&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
