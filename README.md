@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6dHd2dGZvOGxud2R4MmpzeW93bzB1amFkamszbTl3OWlldWhkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif" width="120"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6dHd2dGZvOGxud2R4MmpzeW93bzB1amFkamszbTl3OWlldWhkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif" width="110"/>
 </div>
 
 <br />
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="http://osazee.pythonanywhere.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
@@ -23,10 +23,8 @@
 
 ## 👋 Hi, I’m Osazee Ero
 
-**LLM / GenAI Engineer** focused on building **production-ready RAG systems** and **fine-tuned open-source models (LoRA/QLoRA)**.  
-I work end-to-end across **data ingestion → embeddings → retrieval/reranking → grounded generation → evaluation → deployment**.
-
-**Core interests:** reliable LLMs, RAG evaluation, and GenAI for technical/industrial domains.
+**Applied ML Scientist (PhD)** working on **Manufacturing & Materials AI** — from **in-situ monitoring / computer vision** to **simulation acceleration** and optimization.  
+I also build **GenAI tools (RAG/LLMs)** to unlock technical knowledge and streamline engineering workflows.
 
 </div>
 
@@ -34,49 +32,37 @@ I work end-to-end across **data ingestion → embeddings → retrieval/reranking
 
 <div align="center">
 
-### 🧠 LLM & GenAI Stack
+### 🔧 Focus Areas
 
 </div>
 
-<div align="center">
-  <!-- LLM / GenAI -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
-  <!-- ML -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-
-  <!-- Backend / Dev -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-
-  <!-- Web basics -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-
-  <!-- Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
+- **Physical systems ML:** multimodal sensing, anomaly detection, segmentation, time-series
+- **Simulation acceleration:** surrogate modeling, Bayesian optimization / active learning
+- **GenAI for engineering:** RAG + evaluation, lightweight fine-tuning (LoRA/QLoRA)
 
 <br />
 
 <div align="center">
 
-### 🔎 What I build
+### 🧰 Tech I use
 
 </div>
 
-- **RAG applications** (LangChain / LlamaIndex + vector DBs) with **grounded answers & citations**
-- **Fine-tuning pipelines** (LoRA/QLoRA) for domain-specific generation
-- **Evaluation harnesses** (retrieval quality, groundedness, regression tests)
-- **Inference APIs** (FastAPI + Docker + AWS) with clean deployable templates
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="38" height="38"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="38" height="38"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="38" height="38"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="38" height="38"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="38" height="38"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="38" height="38"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="38" height="38"/>&nbsp;
+</div>
 
 ---
 
 <div align="center">
 
-### :fire: My Stats
+### :fire: Stats
 
 </div>
 
