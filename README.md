@@ -4,7 +4,7 @@
 
 I build practical AI systems, from document intelligence to industrial computer vision. My work combines software engineering, applied machine learning, and a PhD in Mechanical and Mechatronics Engineering from the University of Waterloo.
 
-[Portfolio](https://osazee.pythonanywhere.com/) · [LinkedIn](https://www.linkedin.com/in/osazeeero/) · [Google Scholar](https://scholar.google.com/citations?user=d8a_Kn8AAAAJ&hl=en) · [Email](mailto:osazee.ero@gmail.com)
+[Portfolio](https://osazeeero.com) · [LinkedIn](https://www.linkedin.com/in/osazeeero/) · [Google Scholar](https://scholar.google.com/citations?user=d8a_Kn8AAAAJ&hl=en) · [Email](mailto:osazee.ero@gmail.com)
 
 ## Selected work
 
