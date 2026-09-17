@@ -1,62 +1,53 @@
-# Hi, I’m Osazee Ero
+# Hi, I'm Osazee Ero
 
-I’m a PhD-trained Applied ML / AI Engineer building practical AI systems across GenAI, RAG, computer vision, sensor fusion, simulation workflows, and production ML.
+**AI & Machine Learning Engineer**
 
-My work focuses on turning data, models, and technical knowledge into reliable tools for engineering, scientific, manufacturing, and materials R&D workflows.
+I build practical AI systems, from document intelligence to industrial computer vision. My work combines software engineering, applied machine learning, and a PhD in Mechanical and Mechatronics Engineering from the University of Waterloo.
 
-## What I Build
+[Portfolio](https://osazee.pythonanywhere.com/) · [LinkedIn](https://www.linkedin.com/in/osazeeero/) · [Google Scholar](https://scholar.google.com/citations?user=d8a_Kn8AAAAJ&hl=en) · [Email](mailto:osazee.ero@gmail.com)
 
-* RAG applications for technical knowledge access
-* LLM-powered tools with function calling and structured workflows
-* Agentic AI and MCP-based systems
-* FastAPI inference services and Dockerized AI backends
-* Computer vision and anomaly detection pipelines
-* ML/LLM evaluation workflows for reliable model performance
-* Full-stack AI applications with Python, FastAPI, React/Next.js, and cloud-ready deployment patterns
+## Selected work
 
-## Core Stack
+### Contextly — live document intelligence application
 
-**AI / GenAI:** RAG, LangChain, LlamaIndex, Pinecone, vector databases, OpenAI API, tool/function calling, LLM evaluation, LoRA/QLoRA, agentic workflows, MCP fundamentals
+A private knowledge assistant that turns uploaded PDFs into answers with document and page citations. Built with Next.js, FastAPI, PostgreSQL/pgvector, and AWS.
 
-**Machine Learning:** PyTorch, scikit-learn, XGBoost, U-Net, autoencoders, ConvLSTM, anomaly detection, segmentation, time-series modeling, sensor fusion
+The project covers authenticated access, hybrid retrieval, document processing, answer evaluation, and deployment. It includes regression tests for signup recovery, upload failures, account isolation, and chat reliability.
 
-**Production AI:** FastAPI, REST APIs, Docker, AWS ECS, S3, Lambda, SageMaker, MLflow, GitHub Actions, CI/CD, logging, monitoring, model serving
+[Try Contextly](https://contextly.osazeeero.com) · [Code and architecture](https://github.com/osazee-ero/contextly)
 
-**Data / Software:** Python, pandas, NumPy, SQL, MongoDB/NoSQL, Git, Linux, Streamlit, React, Next.js, TypeScript, Tailwind CSS
+### Industrial Computer Vision — PhD research
 
-## Featured Projects
+Machine learning for defect detection in metal additive manufacturing. My doctoral work explored optical tomography, self-organizing maps, U-Net segmentation, and fuzzy logic to extract defect information from manufacturing data.
 
-### Airline AI Support Agent
+Selected publications:
 
-Multimodal LLM support agent with tool/function calling, structured backend workflows, and image/document understanding.
+- [Optical tomography and machine learning for in-situ defects detection in laser powder bed fusion: A self-organizing map and U-Net based approach](https://doi.org/10.1016/j.addma.2023.103894) — *Additive Manufacturing*, 2023.
+- [An integrated fuzzy logic and machine learning platform for porosity detection using optical tomography imaging during laser powder bed fusion](https://doi.org/10.1088/2631-7990/ad65cd) — *International Journal of Extreme Manufacturing*, 2024.
 
-### LLM Brochure Generator
+### Hand-Controlled Virtual Lab — personal prototype
 
-LLM application that extracts website content and generates structured brochure-style summaries.
+An exploratory computer vision project connecting OAK-D hand detection with a Unity virtual laboratory. The repository documents the TensorFlow workflow, TCP integration, prototype recordings, and remaining limitations.
 
-### StackSketch AI
+[Demo recordings and project documentation](https://github.com/osazee-ero/AI-powered-Virtual-Lab)
 
-AI-powered software planning tool for tech stack recommendations, architecture explanations, and system diagrams.
+## How I work
 
-### Technical Docs RAG Assistant
+- Build complete workflows: data preparation, modeling, evaluation, APIs, and deployment.
+- Make AI outputs inspectable through source citations, evaluation, and useful error reporting.
+- Connect model predictions to domain knowledge and measurable outcomes.
 
-Retrieval-Augmented Generation system for technical documentation search with vector retrieval, prompt orchestration, evaluation loops, and API-based serving.
+## Core tools
 
-### Industrial Monitoring and Anomaly Detection
+| Area | Tools |
+| --- | --- |
+| AI and machine learning | PyTorch, scikit-learn, XGBoost, OpenAI API, RAG |
+| Backend and data | Python, FastAPI, PostgreSQL, pgvector, SQL |
+| Frontend | Next.js, React, TypeScript, Tailwind CSS |
+| Delivery | Docker, AWS ECS, S3, Git |
 
-Computer vision and sensor-fusion pipelines for process monitoring, defect detection, and manufacturing quality prediction.
+## Experience and direction
 
-## Research Background
+My experience spans industrial ML research, simulation and materials AI at PhaseShift AI, and software development at Optifab Technologies. I am continuing to develop my work in GenAI applications, retrieval evaluation, and practical ML systems.
 
-My PhD research focused on machine learning and optical tomography for in-situ anomaly detection in laser powder bed fusion additive manufacturing. I developed ML and computer vision methods for process monitoring, defect segmentation, sensor fusion, and quality prediction.
-
-## Currently Building
-
-I’m actively building projects around RAG evaluation, agentic AI, MCP, LoRA/QLoRA fine-tuning, FastAPI deployment, and full-stack GenAI applications.
-
-## Connect
-
-* Portfolio: https://osazee.pythonanywhere.com/
-* LinkedIn: https://www.linkedin.com/in/osazeeero/
-* GitHub: https://github.com/osazee-ero
-* Google Scholar: https://scholar.google.ca/citations?user=d8a_Kn8AAAAJ&hl=en&oi=ao 
+Based in Waterloo, Ontario, Canada.
